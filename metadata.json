@@ -1,0 +1,8 @@
+{
+  "name": "TalentPlate",
+  "description": "Premium HR Tech & Services for the Hospitality Industry. Managing the entire employee lifecycle with AI-driven insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
